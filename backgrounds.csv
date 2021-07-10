@@ -1,0 +1,434 @@
+d100,Background,Weapons,Armor,Skills,Languages,Tool Proficiencies,+cantrips,+STR,+DEX,+CON,+WIS,+INT,+CHA,Starting Equipment
+1,Actor,"Dagger
+Club",,"Deception
+Performance
+Persuasion",2,"Disguise Kit
+Musical Instrument(1)",,1,1,1,,1,4,"Clothes (traveler’s, fine, and a collection of 3 common costumes), Dagger, Disguise Kit, Book w/ Collection of Plays, One Musical Instrument of Your Choice, Broadsheet Pamphlet (raving about one of your past performances), Backpack, Sack, Bedroll, Mule w/ Saddlebags, 25 gp"
+2,Adventurer's Heir,"Dagger
+Shortsword
+Club",Medium,"Arcana
+Athletics
+History
+Perception",2,Disguise Kit,,1,1,1,1,1,1,"Clothes (traveler’s), Shortsword, Silvered Dagger, Chain Shirt, Potion of Healing, Chapbook of Tales of a Famous Adventurer, Backpack, Bedroll, Waterskin, 50 gp"
+3-4,Airship Crew,"Dagger
+Club",,"Athletics
+Perception",2,"Navigator’s Tools
+Air Vehicles",,2,2,2,,,,"Clothes (common), Dagger, Belaying Pin (per club), 50’ of Silk Rope, Bedroll, Sack, 10 gp"
+5,Alchemist’s Apprentice,"Club
+Quarterstaff",,"Arcana
+Nature",2,"Herbalism Kit
+Alchemist’s Tools
+Poisoner’s Tools",,,2,2,,2,,"Robes, Clothes (common), Dagger, Alchemist’s Tools, Herbalism Kit, 2 Vials Alchemists’ Fire, Vial of Antitoxin, Book of Notes & Alchemical Recipes, Quills & Ink Vial, Backpack, Bedroll, Waterskin, Wineskin, 30 gp"
+6,Animal Trainer,"Dagger
+Net
+Quarterstaff",,"Animal Handling
+Medicine
+Survival",1,,,2,2,2,2,,,"Clothes (traveler's), Dagger, Quarterstaff, Backpack, Bedroll, Waterskin, 2d6 gp, Memento from animal you train (roll 1d8): (1) griffon feather, (2) hippogriff feather, (3) pegasus tail hair, (4) wyvern scale, (5) dog tooth, (6) hawk feather, (7) ox horn, (8) other??"
+7,Archer,"Shortbow
+Dagger",,"Athletics
+Perception
+Survival",0,Woodcarver’s Tools,,2,2,,,,,"Clothes (traveler's), Dagger, Shortbow, Quiver of 20 Arrows, Mess Kit, Backpack, Bedroll, Waterskin, 2d6 sp"
+8,Assassin,"Dagger
+Shortsword
+Light Crossbow
+Shortbow
+Fan
+Shuriken",Light,"Deception
+Sleight of Hand
+Stealth",0,Thieves’ Tools,,,2,2,,,,"Clothes (traveler's), Leather Armor, 2 Daggers in Hidden Wrist-Sheaths, Shortsword, Thieves’ Tools, Pouch with a Pinch of Arsenic (ingested, DC 15 Con Save or 3d6 damage and poisoned for 1 day), Large Sack, Wineskin, 50 gp"
+9,Baker,"Club
+Quarterstaff
+Dagger",Light,Animal Handling OR Deception OR Persuasion,0,Cook’s Utensils,,1,1,4,1,1,1,"Homemade Padded Armor, Club, Dagger, Clothes (common), 5 lbs. Sack of Flour, Backpack, Bedroll, Cooking Utensils, Waterskin, Bottle of Sembian Red Wine, 10 gp"
+10-11,Bandit,"Shortsword
+Dagger
+Club
+Shortbow",Light,"Stealth
+Survival",0,,,,2,2,2,,,"Clothes (common), Black Cloth for Tying Around Face, Leather Armor, Shortsword, Dagger, Shortbow, 10 Arrows, Set of Dice, Backpack, Bedroll, Wineskin, 3d10 gp"
+12,Barber,"Dagger
+Club",,"Insight
+Medicine",0,Barber’s Tools,,,3,1,1,1,2,"Clothes (common), Dagger, Barber’s Tools (scissors, razors, brushes, combs, creams, tooth-pullers, etc.), Healer’s Kit, Backpack, Bedroll, Sack, Wineskin, 20 gp"
+13,Barrister,"Dagger
+Club",,"History
+Investigation
+Performance",2,,,,,,2,2,2,"Clothes (fine), Dagger, Book, Bottle of Ink, 10 Sheets of Parchment, Blanket, 3 Volume Set of the Cliffshadow Code Legal, Scroll Case, Bedroll, Backpack, Wineskin, Waterskin, 100 gp"
+14-15,Blacksmith’s Apprentice,"Club
+Dagger
+Light Hammer
+Warhammer
+Maul",Medium,Athletics,0,Smith’s Tools,,4,,2,,,,"Clothes (common), One Weapon of Your Choice, Dagger, Chain Shirt, Backpack, Bedroll, Waterskin, 10 gp"
+16,Bureaucrat,"Dagger
+Quarterstaff",,"History
+Intimidation
+Persuasion",2,Calligrapher's Supplies,,,,2,2,2,,"Clothes (fine), Dagger, Quarterstaff, Book of Regulations, Bottle of Ink, 10 Sheets of Parchment, Inkpen, Scroll Case, Bedroll, Backpack, 50gp"
+17,Butcher,"Dagger
+Club
+Hand Axe",,"Animal Handling
+Athletics",0,Cook’s Utensils,,2,,4,,,,"Clothes (common), Hand Axe (Cleaver), Dagger, Homemade Shield, Backpack, Cook’s Utensils, Bedroll, Waterskin, Sack, 5 lbs. Dried Beef, 5 gp"
+18,Caravan Guard,"Spear
+Longsword
+Dagger",Medium,"Animal Handling
+Perception
+Survival",0,Gaming Set(all),,2,,2,,,,"Clothes (traveler's), Longsword, Dagger, Leather Armor, Shield (painted with Merchant Company Symbol), Mess Kit, Backpack, Bedroll, Tinderbox, Wineskin, 10 gp"
+19,Carneval Tumbler,"Dagger
+Club
+Quarterstaff
+Fan",,"Acrobatics
+Athletics
+Performance",1,"Air Vehicles
+One of:
+Musical Instrument(1) OR Hang Gliders",,2,2,,,,,"Clothes (traveler’s & performer’s motley), 50’ Silk Rope, 2 Daggers OR 2 Fans, Backpack, Bedroll, Waterskin, 5 gp"
+20,Charlatan/Confidence Artist,"Dagger
+Club
+Fan",,"Deception
+Performance
+Sleight of Hand",0,"Gaming Set(all)
+Disguise Kit
+Forger’s Kit",,,2,,,,2,"Clothes (traveler’s & fine), Dagger, Backpack, Forger’s Kit, Disguise Kit, Forged 1,000 gp note from a trading company, Bedroll, Wineskin, 3d10 gp"
+21,City Watchman (retired),"Dagger
+Club
+Shortsword
+Longsword
+Mace",Medium,"Insight
+Perception",0,Gaming Set(1),,2,,,2,,,"Clothes (traveler’s), Shortsword, Dagger, Leather Armor, Dice Set, Backpack, Bedroll, Boot with Hollow Heel, Waterskin, 20 gp"
+22,Cook,"Dagger
+Club
+Hand Axe",Light,"Animal Handling
+Athletics",0,Cook’s Utensils,,1,1,4,1,1,1,"Clothes (common), Hand Axe (Cleaver), Homemade Padded Armor, Backpack, Bedroll, Cook’s Utensils, Iron Pot, Tinderbox, Waterskin, 10 gp"
+23-24,Courtier,"Dagger
+Shortsword
+Fan",,"Deception
+Insight
+Persuasion",0,"Musical Instrument(1)
+Disguise Kit",,,,2,,,4,"Clothes (traveler’s & fine), Fan, One Musical Instrument, Vial of Perfume, Wineskin, Disguise Kit, Backpack, Bedroll, 50 gp"
+25-26,Cutpurse,"Dagger
+Club
+Brass Knuckles",,"Perception
+Sleight of Hand
+Stealth",0,Thieves’ Tools,,,2,,,,2,"Clothes (common), Dagger, Coat w/ Hidden Pockets Sewn In, Steel Coin with Sharpened Side, Dice Set, Thieves’ Tools, Sack, Wineskin, 10 gp"
+27,Diplomat,"Longsword
+Shortsword
+Dagger
+Spear
+Longbow
+Fan",,"Deception
+Insight
+Persuasion",4,Musical Instruments(3),Wizard(3),,,,,2,2,"Clothes (traveler’s & fine), Dagger, Silvered Longsword, Backpack, Potion of Healing, Waterskin, 20 gp plus 100 gp in various gems"
+28-29,Dockworker,"Dagger
+Club
+Brass Knuckles",,"Athletics
+Intimidation",0,,,4,,2,,,,"Clothes (common), Brass Knuckles, Club, Sack, Waterskin, Push Cart, 2d6 sp"
+30,Drover,"Club
+Spear
+Dagger",Light,"Animal Handling
+Survival",0,Land Vehicles,,2,,2,,,,"Clothes (common), Homemade Padded Armor, Club, Dagger, Backpack, Waterskin, Iron Pot, Wagon (Full of Potatoes, 2 Oxen, Spare Wagon Wheel, 5 gp"
+31,Druid’s Apprentice,"Quarterstaff
+Club
+Dagger",Light,"Animal Handling
+Nature
+Religion
+Survival",2,"Herbalism Kit
+Woodcarver’s Tools",Druid(2),,,,4,,,"Clothes (traveler’s), Padded Armor, Quarterstaff, Dagger, Backpack, Bedroll, Pouch of Mistletoe, Herbalism Kit, Healer’s Kit, Waterskin, Holy Symbol, 5 gp"
+32,Dung Carter,"Club
+Dagger",Light,"Animal Handling
+Perception
+Survival",0,Land Vehicles,,2,,4,,,,"Clothes (common), Homemade Padded Armor, Bedroll, Waterskin, Rickety Cart (soiled) with Mule, Wineskin, 2d6 sp"
+33,Entertainer,"Dagger
+Club
+Fan",,"Acrobatics
+Performance
+Sleight of Hand",2,Three Musical Instruments,,,2,,,,2,"Clothes (traveler’s & fine), Dagger in Hidden Wrist Sheath, Fan One Musical Instrument of Your Choice, Backpack, Bedroll, Waterskin, 20 gp"
+34,Escaped Criminal,"Shortsword
+Dagger
+Club
+Brass Knuckles",Light,"Deception
+Sleight of Hand
+Stealth
+Survival",1,Thieves’ Tools,,,2,2,,,,"Clothes (common), Club, Stolen Loaf of Bread & Jug of Wine"
+35,Ex-PoW,"Dagger
+Shortsword
+Battleaxe
+Greataxes",Medium,"Deception
+Intimidation
+Perception",1,One set of Artisan’s Tools (your choice) OR Thieves' Tools,,2,,2,,,,"Clothes (traveler's), Shortsword, Dagger, Boot with Spring Blade (per Dagger), Chain Shirt, Backpack, Bedroll, Dice Set, Vial of Poison (basic), Wineskin, 20 gp"
+36-37,Farmer,"Club
+Spear
+Quarterstaff
+Dagger",Light,"Nature
+Perception
+Survival",1,,,2,,4,,,,"Clothes (common), Pitchfork (as spear) or Spade (as club), Homemade Padded Armor, Backpack, Bedroll, Sack of Vegetables, Waterskin, 2d6 sp"
+38-39,Footpad,"Club
+Dagger
+Shortsword
+Brass Knuckles",,"Deception
+Intimidation
+Stealth",1,,,2,2,,,,,"Clothes (common), Bronze-Headed Club, Dagger OR Brass Knuckles, Shortsword, Sack, Wineskin, 2d6 sp"
+40,Forester/Hunter/Trapper,"Dagger
+Club
+Shortbow
+Spear",,"Nature
+Perception
+Survival",1,Woodcarving Tools,,,2,,2,,,"Clothes (traveler’s), Dagger, Shortbow, 20 arrows, Hunter’s Trap, 1d6 Fine Pelts, Backpack, Bedroll, Woodcarving Tools, Collection of Small Wooden Animals, Waterskin, 10 gp"
+41,Gambler,"Dagger
+Club
+Shuriken",,"Deception
+Insight
+Sleight of Hand",3,"Gaming Set(cards,dice)",,,2,,,,2,"Clothes (fine), Dagger in Hidden Sheath, Backpack, Bedroll, Coat with Hidden Pockets, Wineskin, Dice & Cards, Deed to a Ruined House in Cliffshadow, 1d10x10 gp, Choose One: Flamboyant Hat, Gold Tooth, Glass Eye, or False Eyepatch."
+42,Gladiator,"Dagger
+Shortsword
+Longsword
+Spear
+Crossbow",Medium,"Athletics
+Perception
+Performance",0,Gaming Set(1),,2,,,,,2,"Clothes (traveler’s), Shortsword, Dagger, Spear, Chain Shirt, Backpack, Bedroll, Waterskin, 40 gp"
+43,Grave Digger,"Dagger
+Club",,"Athletics
+Intimidation",1,,,2,,4,,,,"Clothes (common), Shovel (treat as club), Dagger, Bedroll, Waterskin, 2d6 sp"
+44,Grave Robber,"Dagger
+Shortsword
+Club",Light,"Investigation
+Stealth",1,,,2,,,,,2,"Clothes (traveler’s), Shortsword, Dagger, Leather Armor, Shovel (per club), Backpack, Sack, Bedroll, Waterskin, Pouch of 50 gp of Jewelry (assorted rings, necklaces, earrings, and brooches stolen from graves), 10 gp"
+45,Guide,"Dagger
+Shortsword
+Shortbow
+Bolas",Medium,"Animal Handling
+Nature
+Perception
+Survival",2,,,,,2,2,,,"Clothes (traveler’s), Shortsword, Dagger, Leather Armor, Shortbow, 10 arrows, Mess Kit, Backpack, Bedroll, Tinderbox, Wineskin, 10 gp"
+46-48,Guild Artisan,"Dagger
+Club",,"Insight
+Persuasion",1,One set of Artisan’s Tools (your choice),,2,2,2,2,2,2,"Clothes (traveler’s), Dagger, Club, One Set of Artisan’s Tools (pg. 154) Backpack, Bedroll, Waterskin, Mule (w/ Saddlebags), Letter of Recommendation from Former Master, 20 gp"
+49,Hermit,"Dagger
+Shortsword
+Quarterstaff
+Club",Medium,"Athletics
+Nature
+Survival",Sylvan,,Druid (2),,1,2,2,,,"Clothes (traveler’s), Quarterstaff, Dagger, Leather Armor, Mess Kit, Backpack, Bedroll, Waterskin, 2d6 gp"
+50-51,Knight,"Longsword
+Shortsword
+Mace
+Dagger
+Lance","Heavy
+Shield","Animal Handling
+History",0,,,2,1,1,1,1,1,"Clothes (traveler’s & fine), Longsword, Dagger, Chainmail, Shield w/Family Crest, Backpack, Waterskin, Mess Kit, Signet Ring, Bedroll, Hippogriff (w/saddle and saddle bags), 100 gp"
+52,Knight’s Squire,"Longsword
+Shortsword
+Dagger
+Lance",Medium,"Animal Handling
+History",0,,,1,1,2,,1,1,"Clothes (traveler’s), Shortsword, Dagger, Chain Shirt, Backpack, Waterskin, Bedroll, Hippogriff (w/saddle and saddlebags, 2 days feed), 20 gp"
+53,Local Pilot,"Dagger
+Club
+Bolas",,"Athletics
+Nature
+Perception",1,Air Vehicles,,2,,,2,1,,"Clothes (traveler’s), Dagger, Club, Flight Goggles, Pilot Medallion, Backpack, Bedroll, Waterskin, 10 gp"
+54,Locksmith’s Apprentice,Dagger,,"Perception
+Sleight of Hand",1,"Thieves’ Tools
+Tinker’s Tools",,,2,,,2,,"Clothes (common), Dagger, Backpack, Bedroll, Thieves’ Tools, Ring of Skeleton Keys, 4 Locks (w/keys), Waterskin, 20 gp"
+55-56,Mercenary,"Dagger
+Shortsword
+Longsword
+Spear
+Crossbow
+Shortbow",Medium,"Animal Handling
+Athletics
+Intimidation",2,,,2,,2,,,,"Clothes (traveler’s), Leather Armor, Shield Painted w/Symbol of Former Mercenary Company, Longsword, Dagger, Whetstone & Oily Rag, Backpack, Bedroll, Wineskin, 5d6 gp, Momento (roll 1d6): (1) Hilt from a Broken Orc Scimitar, (2) Elf Arrow, (3) Snowcat-fang Necklace, (4) Troll’s Finger (still wiggling), (5) Bandit Captain’s Baton, or (6) Pouch of Tin Soldiers from your Childhood"
+57-58,Mercenary Scout,"Dagger
+Shortsword
+Longbow
+Shortbow",Light,"Insight
+Stealth
+Survival",3,Hang gliders,,,2,,2,,,"Clothes (traveler’s), Leather Armor, Leather Badge w/Symbol of Former Mercenary Company, Shortsword, Dagger, Longbow, 10 arrows, Backpack, Bedroll, Wineskin, 5d6 gp"
+59-60,Merchant,"Dagger
+Club",,"Deception
+Insight
+Persuasion",2,,,,2,,,,2,"Clothes (traveler’s & fine), Dagger, Backpack, Bedroll, Wineskin, Pegasus (w/saddle and saddlebags), Merchant’s Scale, Steel Mirror, Tinderbox, 50 gp"
+61,Miner,"Dagger
+Club
+Light Hammer
+War Pick
+Warhammer
+Maul",,"Athletics
+Survival",1,Mason’s Tools,,2,,2,,,,"Clothes (common), Pickaxe (Treat as Club), Sack, Bedroll, Waterskin, 2d6 sp"
+62,"Noble, Dilettante","Longsword
+Rapier
+Dagger
+Fan",Medium,"History
+Persuasion",2,Gaming Set(1),,,,,,2,2,"Clothes (fine), Longsword or Rapier, Dagger, Chain Shirt, Gold Signet Ring, Backpack, Potion of Healing, Wineskin, Bedroll, 200 gp"
+63,"Noble, Second Heir","Longsword
+Shortsword
+Lance
+Dagger
+Club",Heavy,"History
+Persuasion",2,Hang Gliders,,2,,2,,,2,"Clothes (fine), Longsword, Dagger, Chain Shirt, Gold Signet Ring, Backpack, Bedroll, Potion of Healing, Waterskin, 200 gp"
+64,Peddler,"Dagger
+Club
+Bolas",,"Animal Handling
+Insight
+Persuasion",1,,,,,,2,,2,"Clothes (traveler’s), Dagger, Bolas, Backpack, Bedroll, Waterskin, Mule loaded with 50 gp of Trade Goods (your choice), 10 gp"
+65,Pirate,"Dagger
+Club
+Shortsword
+Bolas",Light,"Athletics
+Intimidation
+Perception",1,"Navigator's Tools
+Air Vehicles",,2,2,2,,,,"Clothes (common), Dagger, Belaying pin (club), Shortsword, 50ft Silk Rope, Sack, Bedroll, 10 gp"
+66,Poisoner,"Dagger
+Club",,"Medicine
+Nature
+Sleight of Hand",1,"Herbalism Kit
+Poisoner’s Kit",,,2,,,2,,"Dagger, Clothes (traveler’s), Pouch with 4 Pinches of Arsenic (ingested, DC 15 Con Save or 3d6 damage and poisoned for 1 day), Vial of Antitoxin, Backpack, Bedroll, Wineskin, 10 gp"
+67,Procurer,"Dagger
+Club
+Bolas",Light,"Insight
+Intimidation
+Persuasion",1,,,2,,,,,2,"Clothes (traveler’s & fine), Fancy Hat, Dagger, Sap (treat as Club), Bolas, Boot with Hollow Heel, Wineskin, Backpack, Bedroll, 50 gp"
+68-69,Rancher,"Dagger
+Club
+Quarterstaff
+Sling
+Bolas",,"Animal Handling
+Athletics
+Survival",1,,Druid(1),2,2,2,,,,"Clothes (common), Dagger, Sling, Quarterstaff, Sack, Bedroll, Waterskin, 2d6 gp"
+70,Rat Catcher,"Dagger
+Club
+Sling",,"Deception
+Sleight of Hand
+Stealth",1,,,,2,2,,,,"Clothes (ragged), Dagger, Sack, 1d6 dried rats, 2d6 sp"
+71,Refugee,"Dagger
+Club",,"Insight
+Persuasion
+Survival",2,Musical Instrument(1),,,,,2,,2,"Clothes (traveler’s), Dagger, Wineskin, Backpack, Sack, Bedroll, 150 gp (life savings from looting what was left of your destroyed home), and Roll 1d6 to determine what destroyed your home (1) Orcs, (2) Goblins, (3) Dragon, (4) Giants, (5) Skylith Reavers, (6) Huge Storm "
+72-73,Renounced Heir,"Longsword OR Rapier
+Dagger",,"Deception
+Persuasion",2,"Disguise Kit
+Forgery Kit",,,,,,2,2,"Clothes (fine), Longsword or Rapier, Dagger, Backpack, Disguise Kit, Gold Signet Ring, Wineskin, Bedroll, 100 gp"
+74-75,Retired Veteran,"Dagger
+Club
+Shortsword
+Longsword
+Spear
+Crossbows",Medium,"Animal Handling
+Survival",2,,,2,,,2,,,"Clothes (traveler’s), Longsword, Dagger, Leather Armor, Backpack, Bedroll, Wineskin, 20 gp, and Roll 1d4: (1) Eyepatch (you are missing an eye), (2) Wooden Hand (you are missing one hand, and may not use two weapons), (3) Letter of Commendation, (4) Potion of Healing."
+76-77,Scholar/Sage,"Quarterstaff
+Dagger",,"Arcana
+Investigation
+History
+Perception",3,,,,,,,4,,"Clothes (traveler’s), Dagger, Quarterstaff, Three Obscure Tomes (on subjects of your choice), Bottle of Ink, 10 Sheets of Parchment, Ink Pen, Your Personal Journal, Backpack, Wineskin, Bedroll, 50 gp"
+78,Scribe,"Dagger
+Club",,"Arcana
+History
+Sleight of Hand",2,"Calligrapher’s Supplies
+Forgery Kit",,,2,,,2,,"Clothes (traveler’s), Writing Kit & Supplies, Forger’s Kit, Dagger, Backpack, Bedroll, 20 gp"
+79,Servant,"Dagger
+Club",,"Insight
+Persuasion",1,,,2,2,2,2,2,2,"Clothes (common), Dagger, Bedroll, Letter of Recommendation from Former Employer, Waterskin, 10 gp"
+80,Shipwright,"Dagger
+Club",Light,"History
+Perception",2,"Carpenter's Tools
+Air Vehicles",,2,,,2,2,,"Clothes (traveler's), Club, Dagger, Leather Armor, Carpenter's Tools, Backpack, Bedroll, Waterskin, 20 gp"
+81,Skylith Raider,"Club
+Greatclub
+Longsword
+Battleaxe
+Greatsword
+Spear
+Sling
+Maul
+Bolas",Medium,"Intimidation
+Survival",1,"Air Vehicles
+Hang Gliders",,2,,2,,,,"Clothes (traveler’s), Handaxe, Longsword or Battleaxe, Dagger, Chain Shirt, Wooden Shield, Horned Helm, Holy Symbol to Thunder, Sack, Wineskin, 2d6 gp"
+82,Skywatcher,"Quarterstaff
+Light Hammer
+Dagger",,"Investigation
+Nature
+Perception",2,Skywatcher's Tools,,,,1,1,3,,"Clothes (traveler's), Light Hammer, Dagger, Skywatcher's Tools, Bottle of Ink, Ink pen, 20 sheets of paper, Personal Journal, Backpack, Bedroll, Waterskin, 10 gp.
+Specialization (roll 1d3): (1) Astronomer, (2) Meteorologist, (3) Skylith & Thalassa Orbit"
+83,Smuggler (airship),"Dagger
+Shortsword
+",,"Acrobatics
+Nature
+Perception",1,"Navigator's Tools
+Air Vehicles",,,2,,1,2,,"Clothes (traveler’s), Dagger, Shortsword, Navigator's Tools, Backpack, Bedroll, 50ft Silk Rope, Waterskin, 10 gp"
+84,Smuggler (urban),"Dagger
+Shortsword
+Bolas",Light,"Deception
+Perception
+Stealth",1,Forgery Kit,,2,,2,,,2,"Clothes (common), Dagger, Shortsword, Forgery Kit, Backpack, 50 gp"
+85,Spy,"Dagger
+Club
+Mace
+Fan",,"Deception
+Insight
+Stealth",1,"Thieves’ Tools
+Disguise Kit
+Forgery Kit",,,2,,2,,,"Clothes (common), Dagger, Sap (treat as Club), Thieves' Tools, Disguise Kit, Backpack, Bedroll, Wineskin, 10 gp"
+86,Stonemason,"Club
+Dagger
+Light Hammer
+Warhammer
+Maul",Light,Athletics,1,Mason’s Tools,,4,,2,,,,"Clothes (common), Sledge Hammer (treat as Maul), Homemade Padded Armor, Backpack, Bedroll, Waterskin, 10 gp"
+87-88,Temple Acolyte (City),"Club
+Mace
+Light Hammer
+Warhammer",,"History
+Medicine
+Religion",1,Herbalism Kit,Cleric(2),,,,2,2,,"Clothes (traveler’s), Priest’s Robes, Mace, Holy Symbol, Prayer Book, Healer’s Kit, Waterskin, Backpack, Bedroll, 20 gp"
+89,Temple Acolyte (Evil or War-like Church),"Club
+Mace
+Dagger
+Morningstar
+Warhammer","Light
+Medium","Intimidation OR Stealth
+Religion",1,"Choose 1: Herbalism Kit
+Thieves Tools
+Poisoner’s Kit
+or Disguise Kit",Cleric(1),1,,1,2,,,"Clothes (traveler’s), Mace, Leather Armor, Holy Symbol, Prayer Book, Healer’s Kit, Backpack, Bedroll, Waterskin, 50 gp"
+90,Temple Acolyte (Noble Birth),"Longsword
+Club
+Mace",,"History
+Persuasion
+Religion",2,"Gaming Set(1)
+Herbalism Kit",Cleric(1),,,,2,,2,"Clothes (traveler’s & fine), Priest’s Robes, Mace, Holy Symbol, Prayer Book, Healer’s Kit, Waterskin, Backpack, Bedroll, 200 gp"
+91,Temple Guard,"Longsword
+Shortsword
+Mace
+Club
+Spear
+Bolas",,"Athletics
+Perception
+Religion",1,,,2,,,2,,,"Clothes (traveler’s), Chain Shirt, Mace, Dagger, Holy Symbol, Backpack, Bedroll, Waterskin, 20 gp"
+92,Thief Catcher,"Dagger
+Shortsword
+Club
+Quarterstaff
+Net
+Sling
+Bolas",Light,"Investigation
+Intimidation
+Stealth",2,"Disguise Kit
+Thieves’ Tools",,,2,,2,,,"Clothes (traveler’s & common), Quarterstaff, 2 Daggers, Shortsword, Bolas, Leather Armor, Vial of Antitoxin, Bag of 20 Caltrops, Manacles with Lock & Key, Magnifying Glass, Thieves’ Tools, Backpack, Bedroll, 20 gp"
+93,Tinker,"Dagger
+Club
+Sling",,"Perception
+Sleight of Hand",2,"Tinker’s Tools
+Thieves’ Tools",,,2,,,1,2,"Clothes (traveler’s), Dagger, Tinker’s Tools, Thieves’ Tools, Mule loaded with Collection of Pots and Cheap Metalwork (worth 10 gp), Bedroll, Waterskin, 10 gp"
+94,Tribal Wanderer,"Dagger
+Battleaxe
+Handaxe
+Shortbow",Medium,"Athletics
+Perception
+Survival",2,Musical Instrument(1),,2,,2,1,,,"Clothes (traveler’s), One Weapon of Your Choice, Dagger, Hide Armor (furs), Bedroll, Waterskin, 5 gp"
+95-96,Urchin,"Dagger
+Club
+Sling",,"Deception
+Persuasion
+Sleight of Hand",0,,,,2,2,,,,"Clothes (ragged), Dagger, Sack, 2 days rations (spotted with mold), Copper Coin with Sharpened Edge, 2d6 sp"
+97,Village Priest,"Club
+Mace
+Quarterstaff
+Sling",,"Insight
+Medicine
+Religion",1,Herbalism Kit,,,,2,2,,,"Clothes (traveler’s), Priest’s Robes, Quarterstaff, Holy Symbol, Prayer Book, Healer’s Kit, Waterskin, Backpack, Bedroll, 10 gp"
+98-100,Wizard’s Apprentice,"Dagger
+Quarterstaff",,"Arcana
+History",3,"Herbalism Kit
+Alchemists’ Supplies",Wizard(3),,,,2,2,,"Clothes (traveler’s), Robes, Dagger, Former Master’s Spellbook with 4 random 1st Level Spells, Backpack, Bedroll, Wineskin, 20 gp"
