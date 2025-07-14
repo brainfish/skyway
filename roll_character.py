@@ -9,17 +9,20 @@ BASE_REQUIREMENTS = [
 ]
 
 REQUIREMENTS = [
-        #lambda char: char.total > 82,
-        #lambda char: max(char.rolls) >= 17,
+        lambda char: char.total > 82,
+        lambda char: max(char.rolls) >= 17,
         #lambda char: max(char.rolls) >= 18,
-        #lambda char: "INT" in char.bonuses,
+        lambda char: "INT" in char.bonuses,
         #lambda char: "DEX" in char.bonuses,
         #lambda char: "STR" in char.bonuses,
         #lambda char: "CON" in char.bonuses,
+        #lambda char: "CHA" in char.bonuses,
+        lambda char: "Medium" in char.armor_proficiencies,
         #lambda char: "Heavy" in char.armor_proficiencies,
         #lambda char: "word" in char.weapon_proficiencies,
         #lambda char: "Druid" in char.cantrips,
-        lambda char: "Hermit" in char.background,
+        #lambda char: "Hermit" in char.background,
+        #lambda char: ('Pegasus' in char.equipment) or ('Hippogryph' in char.equipment),
 ]
 MAX_ATTEMPTS = 10**3
 
